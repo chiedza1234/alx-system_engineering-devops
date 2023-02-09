@@ -1,2 +1,3 @@
 #!/bin/bash
-0 string SCHOOL Schooldata !:mime School
+0 string SCHOOL Schooldata
+l!:mime School
